@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
