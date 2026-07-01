@@ -12,7 +12,7 @@ public:
         int result=0;
         while(!pq.empty()){
             int time=0;
-            vector<int> res;
+            vector<int>res;
             for(int i=0;i<n+1;i++){
                 if(!pq.empty()){
                     res.push_back(pq.top()-1);
@@ -21,13 +21,10 @@ public:
                 }
             }
             for(auto itt:res){
-                if(itt){
-                    pq.push(itt);
-                }
+                if(itt) pq.push(itt);
             }
             result+=pq.empty()?time:n+1;
         }
         return result;
-
     }
 };
