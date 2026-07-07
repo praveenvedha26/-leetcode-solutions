@@ -17,6 +17,7 @@
 | [0100-same-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -75,6 +77,7 @@
 | [0100-same-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -115,4 +118,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0621-task-scheduler) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
