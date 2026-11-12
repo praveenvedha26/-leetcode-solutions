@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
