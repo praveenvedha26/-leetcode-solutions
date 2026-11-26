@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0189-rotate-array) |
@@ -131,6 +133,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/praveenvedha26/-leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Union-Find
 |  |
